@@ -7,7 +7,7 @@ window.sr =  ScrollReveal();
       sr.reveal('.titulo', {
         duration: 3000,
         origin: 'right',
-        distance: '500px'       
+        distance: '300px'       
       });
       sr.reveal('.enlace', {
         duration: 3000,
