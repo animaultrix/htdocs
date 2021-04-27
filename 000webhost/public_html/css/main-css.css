@@ -23,4 +23,7 @@ footer{
     padding: 100px;
     margin-top: 125px; 
 }
+#ultimo + div{
+    visibility: hidden;
+}
        
