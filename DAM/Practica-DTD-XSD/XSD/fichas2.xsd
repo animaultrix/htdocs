@@ -18,7 +18,7 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="nombre"/>
-                <xs:element ref="edad"/>                
+                <xs:element ref="edad" minOccurs="0" maxOccurs="99"/>                
             </xs:sequence>
             <xs:attribute ref="numero"/>
         </xs:complexType>
